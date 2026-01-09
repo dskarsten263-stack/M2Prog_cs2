@@ -2,7 +2,7 @@ namespace RijSchool;
 
 internal class TheorieTest
 {
-    internal int aantalfouten;
+    internal int aantalFouten;
     internal bool Gehaald;
     internal DateTime afnameDatum;
 }

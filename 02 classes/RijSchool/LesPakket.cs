@@ -1,9 +1,9 @@
 namespace RijSchool;
 
-internal class lesPakket
+internal class LesPakket
 {
     internal int urenGekocht;
-    internal int urenverbruikt;
+    internal int urenVerbruikt;
     internal int examenPogingen;
     internal bool automaat;
 }

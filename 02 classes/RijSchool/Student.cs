@@ -1,11 +1,11 @@
 namespace RijSchool;
 
-internal class student
+internal class Student
 {
     internal string naam;
     internal int leeftijd;
-    internal Lespakket lespakket;
-    internal RijLeraar leraar;
+    internal LesPakket lesPakket;
+    internal RijLeraar rijleraar;
     internal TheorieTest theorieTest;
-    internal Rijtest rijtest;
+    internal RijTest RijTest;
 }

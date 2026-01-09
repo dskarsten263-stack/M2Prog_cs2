@@ -1,7 +1,7 @@
 namespace RijSchool;
 
-interface class Rijtest
+internal class RijTest
 {
     internal bool Gehaald;
-    internal DateTime afnameDatum;
+    internal DateTime AfnameDatum;
 }

@@ -5,6 +5,6 @@ internal class Auto
     internal bool automaat;
     internal string merk;
     internal string kenteken;
-    internal int kilometers;
+    internal int kilometerStand;
 
 }
