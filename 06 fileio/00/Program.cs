@@ -1,4 +1,4 @@
-﻿namespace _00; 
+﻿namespace _00;  
 using System;
 using System.IO;
  
